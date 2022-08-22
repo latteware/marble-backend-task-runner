@@ -1,9 +1,10 @@
-## Marble seeds [Module name]
+## Marble seeds Task Runner
+
 
 ## Install with
 
 ```
-npm i @marble-seeds/[Module name]
+npm i @marble-seeds/task-runner
 ```
 
 ## Docs
